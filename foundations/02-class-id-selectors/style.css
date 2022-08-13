@@ -1,0 +1,21 @@
+p {
+    color: black;
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    
+}
+#first-identifier {
+    color: blue;
+    font-size: 36px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.added-class {
+    font-size: 24px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#second-identifier {
+    font-weight: bold;
+    background-color: #90EE90;
+    font-size: 24px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}

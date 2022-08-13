@@ -1,0 +1,13 @@
+.firstcl {
+    background-color: black;
+    color: white;
+}
+
+.secondcl {
+    background-color: yellow;
+}
+.secondcl,
+.firstcl {
+    font-size: 28px;
+    font-style: "Helvetica", "Times New Roman", sans-serif;
+}
